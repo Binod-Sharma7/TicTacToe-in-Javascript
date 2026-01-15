@@ -64,6 +64,7 @@ boxes.forEach((box)=>{
             box.innerText="";
             box.style.backgroundColor="cornsilk";
             box.style.pointerEvents="auto";
+            winner[0].innerText="";
 
         }
     )
